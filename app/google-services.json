@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972471820289",
+    "project_id": "dontwaste-76c88",
+    "storage_bucket": "dontwaste-76c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972471820289:android:9ca3a4ea0e895f4ebc2000",
+        "android_client_info": {
+          "package_name": "com.example.dontwaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972471820289-6gu5srpl4v40be2agk50pb3j0tn351ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBuZDJbsaB99l9mjxej6WGPdxE8CczAtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972471820289-6gu5srpl4v40be2agk50pb3j0tn351ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
