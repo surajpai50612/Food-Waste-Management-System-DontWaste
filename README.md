@@ -10,10 +10,8 @@
 
 • Languages- Java and SQL.<br/><br/>
 ![WhatsApp Image 2021-08-05 at 12 30 54 PM (3)](https://user-images.githubusercontent.com/53591334/129520678-8c889c67-f0b8-4f7e-bd3a-fa7fbc0fa883.jpeg)<br/><br/>
-![WhatsApp Image 2021-08-05 at 12 30 54 PM (2)](https://user-images.githubusercontent.com/53591334/129520704-ad08db3d-d2b4-47b0-afa5-74bc6937a436.jpeg)
-<br/>
-![WhatsApp Image 2021-08-05 at 12 30 54 PM](https://user-images.githubusercontent.com/53591334/129520728-44180a86-d8f3-4982-b921-8ece8258d214.jpeg)<br/>
-![WhatsApp Image 2021-08-05 at 12 26 07 PM](https://user-images.githubusercontent.com/53591334/129520755-4b9019d6-2886-48e0-b7ce-a947a8a0bb29.jpeg)<br/>
+![WhatsApp Image 2021-08-05 at 12 30 54 PM](https://user-images.githubusercontent.com/53591334/129520728-44180a86-d8f3-4982-b921-8ece8258d214.jpeg)<br/><br/>
+![WhatsApp Image 2021-08-05 at 12 26 07 PM](https://user-images.githubusercontent.com/53591334/129520755-4b9019d6-2886-48e0-b7ce-a947a8a0bb29.jpeg)<br/><br/>
 ![WhatsApp Image 2021-08-05 at 12 30 54 PM (1)](https://user-images.githubusercontent.com/53591334/129520771-9ae496c9-e27f-44cd-b23b-aa725cde74b8.jpeg)
 
 
